@@ -1,0 +1,45 @@
+body {
+    margin: 5px;
+    background-color: rgb(22, 21, 21);
+    color: rgb(228, 225, 200);
+}
+
+header {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: teal;
+    font-family: Helvetica;
+}
+
+table {
+    margin: 0 auto;
+    width: 850px;
+    border-spacing: 5px;
+}
+
+thead {
+    background-color: rgb(3, 75, 75);
+    font-family: Helvetica;
+}
+
+th, td {
+    border-bottom: 1px solid teal;
+}
+
+th {
+    padding: 0px 6px;
+}
+
+td {
+    font-family: Helvetica;
+}
+
+.code {
+    font-family: monospace;
+    background-color: rgb(112, 182, 182);
+    color: rgb(22, 21, 21);
+}
